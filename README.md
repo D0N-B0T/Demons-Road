@@ -3,7 +3,7 @@
 <p align="center">
  <strong>OT version of path of exile. Just that.</strong>
  <br>
- <img src="https://img.shields.io/github/last-commit/krossom/PathfOfDiablo.svg">
+ <img src="https://img.shields.io/github/last-commit/krossom/PathOfDiablo.svg">
  <img src="https://img.shields.io/github/issues/Krossom/PathOfDiablo.svg">
  <img src="https://img.shields.io/github/license/Krossom/PathOfDiablo.svg">
  <img src="https://img.shields.io/github/stars/Krossom/PathOfDiablo.svg">
