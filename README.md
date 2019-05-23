@@ -1,6 +1,8 @@
-<center><h3> Path of exile's tibian version.</h3></center>
+
 
 <p align="center">
+ <strong>OT version of path of exile. Just that.</strong>
+ <br>
  <img src="https://img.shields.io/github/last-commit/krossom/PathfOfTibia.svg">
  <img src="https://img.shields.io/github/issues/Krossom/PathfOfTibia.svg">
  <img src="https://img.shields.io/github/license/Krossom/PathfOfTibia.svg">
@@ -11,3 +13,12 @@
 
 </p>
  
+<hr>
+
+# Why ? 
+I rly like <strong>Path of Exile</strong>, my favourite game and best aRPG so far, so i wanted to play in my second favourite game. Just that.
+
+# TBA
+* Roadmap
+* Map (1% completed)
+* Server files (50% completed)
