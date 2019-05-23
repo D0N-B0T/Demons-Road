@@ -1,8 +1,7 @@
 
  
  <p align="center">
-  Path of exile's tibian version.
- 
+  Path of exile's tibian version.<br>
  
   <img src="https://img.shields.io/github/last-commit/krossom/PathfOfTibia.svg">
  <img src="https://img.shields.io/github/issues/Krossom/PathfOfTibia.svg">
