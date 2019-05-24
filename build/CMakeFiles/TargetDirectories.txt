@@ -1,0 +1,4 @@
+/root/forgottenserver/build/CMakeFiles/all_pch.dir
+/root/forgottenserver/build/CMakeFiles/clean_cotire.dir
+/root/forgottenserver/build/CMakeFiles/tfs.dir
+/root/forgottenserver/build/CMakeFiles/tfs_pch.dir
