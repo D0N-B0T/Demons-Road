@@ -1,0 +1,705 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="1125" centery="562" centerz="5" radius="6">
+		<monster name="Cliff Strider" x="0" y="2" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1137" centery="601" centerz="5" radius="8">
+		<monster name="Skeleton" x="-7" y="-7" z="5" spawntime="60" />
+		<monster name="Skeleton" x="-6" y="-7" z="5" spawntime="1821267968" />
+		<monster name="Skeleton" x="-5" y="-7" z="5" spawntime="1821267968" />
+		<monster name="Skeleton" x="-7" y="-6" z="5" spawntime="60" />
+		<monster name="Skeleton" x="6" y="-6" z="5" spawntime="60" />
+		<monster name="Skeleton" x="2" y="-5" z="5" spawntime="60" />
+		<monster name="Skeleton" x="-3" y="-4" z="5" spawntime="60" />
+		<monster name="Skeleton" x="6" y="-4" z="5" spawntime="60" />
+		<monster name="Skeleton" x="3" y="-3" z="5" spawntime="1821267968" />
+		<monster name="Skeleton" x="4" y="-3" z="5" spawntime="60" />
+		<monster name="Skeleton" x="-4" y="-2" z="5" spawntime="60" />
+		<monster name="Skeleton" x="-4" y="0" z="5" spawntime="60" />
+		<monster name="Skeleton" x="2" y="2" z="5" spawntime="60" />
+		<monster name="Skeleton" x="7" y="2" z="5" spawntime="60" />
+		<monster name="Skeleton Warrior" x="-7" y="5" z="5" spawntime="60" />
+		<monster name="Skeleton Warrior" x="-7" y="6" z="5" spawntime="60" />
+		<monster name="Skeleton" x="-4" y="6" z="5" spawntime="60" />
+		<monster name="Skeleton" x="-2" y="6" z="5" spawntime="60" />
+		<monster name="Skeleton" x="4" y="6" z="5" spawntime="60" />
+		<monster name="Skeleton" x="7" y="6" z="5" spawntime="60" />
+		<monster name="Skeleton" x="-2" y="7" z="5" spawntime="60" />
+		<monster name="Skeleton" x="8" y="7" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="1147" centery="601" centerz="5" radius="8">
+		<monster name="Skeleton" x="0" y="-6" z="5" spawntime="1821267968" />
+		<monster name="Skeleton" x="4" y="-6" z="5" spawntime="60" />
+		<monster name="Skeleton" x="7" y="-6" z="5" spawntime="60" />
+		<monster name="Skeleton" x="0" y="-5" z="5" spawntime="60" />
+		<monster name="Skeleton" x="3" y="-4" z="5" spawntime="60" />
+		<monster name="Skeleton" x="-1" y="-3" z="5" spawntime="1821267968" />
+		<monster name="Skeleton" x="6" y="-3" z="5" spawntime="60" />
+		<monster name="Skeleton" x="-1" y="-2" z="5" spawntime="60" />
+		<monster name="Skeleton" x="4" y="1" z="5" spawntime="60" />
+		<monster name="Skeleton" x="4" y="2" z="5" spawntime="60" />
+		<monster name="Skeleton" x="6" y="2" z="5" spawntime="60" />
+		<monster name="Skeleton" x="5" y="5" z="5" spawntime="60" />
+		<monster name="Skeleton" x="2" y="7" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="989" centery="437" centerz="6" radius="6" />
+	<spawn centerx="966" centery="438" centerz="6" radius="6" />
+	<spawn centerx="978" centery="438" centerz="6" radius="6" />
+	<spawn centerx="955" centery="439" centerz="6" radius="6" />
+	<spawn centerx="1001" centery="440" centerz="6" radius="6" />
+	<spawn centerx="942" centery="441" centerz="6" radius="6" />
+	<spawn centerx="1013" centery="443" centerz="6" radius="6" />
+	<spawn centerx="1002" centery="445" centerz="6" radius="6" />
+	<spawn centerx="993" centery="446" centerz="6" radius="6" />
+	<spawn centerx="948" centery="447" centerz="6" radius="6" />
+	<spawn centerx="960" centery="448" centerz="6" radius="6" />
+	<spawn centerx="982" centery="448" centerz="6" radius="6" />
+	<spawn centerx="970" centery="449" centerz="6" radius="6" />
+	<spawn centerx="1013" centery="455" centerz="6" radius="6" />
+	<spawn centerx="1023" centery="460" centerz="6" radius="8" />
+	<spawn centerx="1006" centery="462" centerz="6" radius="6" />
+	<spawn centerx="1032" centery="468" centerz="6" radius="8" />
+	<spawn centerx="1009" centery="469" centerz="6" radius="6" />
+	<spawn centerx="1022" centery="474" centerz="6" radius="8" />
+	<spawn centerx="1035" centery="481" centerz="6" radius="8" />
+	<spawn centerx="1049" centery="482" centerz="6" radius="8" />
+	<spawn centerx="1063" centery="482" centerz="6" radius="8" />
+	<spawn centerx="1078" centery="482" centerz="6" radius="8" />
+	<spawn centerx="1120" centery="490" centerz="6" radius="11" />
+	<spawn centerx="1078" centery="498" centerz="6" radius="8" />
+	<spawn centerx="1132" centery="500" centerz="6" radius="11" />
+	<spawn centerx="1068" centery="510" centerz="6" radius="8" />
+	<spawn centerx="1119" centery="512" centerz="6" radius="11" />
+	<spawn centerx="1109" centery="517" centerz="6" radius="8" />
+	<spawn centerx="1132" centery="522" centerz="6" radius="11" />
+	<spawn centerx="1100" centery="526" centerz="6" radius="8" />
+	<spawn centerx="1115" centery="527" centerz="6" radius="11" />
+	<spawn centerx="1069" centery="528" centerz="6" radius="8" />
+	<spawn centerx="1085" centery="532" centerz="6" radius="8" />
+	<spawn centerx="1127" centery="621" centerz="6" radius="8">
+		<monster name="Skeleton" x="-2" y="1" z="6" spawntime="60" />
+		<monster name="Skeleton" x="1" y="2" z="6" spawntime="60" />
+		<monster name="Skeleton" x="-2" y="3" z="6" spawntime="60" />
+		<monster name="Skeleton" x="0" y="7" z="6" spawntime="60" />
+		<monster name="Skeleton" x="3" y="7" z="6" spawntime="60" />
+		<monster name="Skeleton" x="7" y="7" z="6" spawntime="60" />
+		<monster name="Skeleton" x="-4" y="8" z="6" spawntime="60" />
+		<monster name="Skeleton Warrior" x="8" y="8" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1121" centery="634" centerz="6" radius="8">
+		<monster name="Skeleton" x="-7" y="-5" z="6" spawntime="60" />
+		<monster name="Skeleton" x="-4" y="-4" z="6" spawntime="60" />
+		<monster name="Skeleton Warrior" x="-5" y="-3" z="6" spawntime="60" />
+		<monster name="Skeleton" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Skeleton" x="6" y="-2" z="6" spawntime="60" />
+		<monster name="Skeleton" x="-4" y="-1" z="6" spawntime="60" />
+		<monster name="Skeleton" x="-6" y="4" z="6" spawntime="60" />
+		<monster name="Skeleton" x="7" y="4" z="6" spawntime="60" />
+		<monster name="Skeleton" x="-1" y="5" z="6" spawntime="60" />
+		<monster name="Skeleton" x="3" y="5" z="6" spawntime="60" />
+		<monster name="Skeleton" x="6" y="6" z="6" spawntime="1821267968" />
+		<monster name="Skeleton" x="6" y="7" z="6" spawntime="1821267968" />
+	</spawn>
+	<spawn centerx="1132" centery="634" centerz="6" radius="8">
+		<monster name="Skeleton" x="6" y="-6" z="6" spawntime="60" />
+		<monster name="Skeleton Warrior" x="7" y="-5" z="6" spawntime="60" />
+		<monster name="Skeleton" x="5" y="-3" z="6" spawntime="60" />
+		<monster name="Skeleton Warrior" x="2" y="-2" z="6" spawntime="60" />
+		<monster name="Skeleton" x="7" y="-2" z="6" spawntime="60" />
+		<monster name="Skeleton" x="-2" y="-1" z="6" spawntime="60" />
+		<monster name="Skeleton" x="4" y="-1" z="6" spawntime="1821267968" />
+		<monster name="Skeleton Warrior" x="5" y="-1" z="6" spawntime="60" />
+		<monster name="Skeleton" x="7" y="-1" z="6" spawntime="1821267968" />
+		<monster name="Skeleton" x="4" y="0" z="6" spawntime="60" />
+		<monster name="Skeleton Warrior" x="2" y="4" z="6" spawntime="60" />
+		<monster name="Skeleton Warrior" x="7" y="5" z="6" spawntime="60" />
+		<monster name="Skeleton" x="3" y="6" z="6" spawntime="60" />
+		<monster name="Skeleton" x="5" y="6" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1127" centery="642" centerz="6" radius="8">
+		<monster name="Skeleton" x="1" y="2" z="6" spawntime="60" />
+		<monster name="Skeleton" x="3" y="3" z="6" spawntime="60" />
+		<monster name="Skeleton" x="-7" y="4" z="6" spawntime="60" />
+		<monster name="Skeleton" x="8" y="4" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1123" centery="690" centerz="6" radius="19">
+		<monster name="Rotworm" x="-2" y="-2" z="6" spawntime="60" />
+		<monster name="Rotworm" x="0" y="-1" z="6" spawntime="60" />
+		<monster name="Rotworm" x="1" y="6" z="6" spawntime="60" />
+		<monster name="Rotworm" x="11" y="15" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1131" centery="724" centerz="6" radius="19">
+		<monster name="Furious Troll" x="-2" y="-12" z="6" spawntime="60" />
+		<monster name="Rotworm" x="-3" y="-9" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="1" y="-9" z="6" spawntime="60" />
+		<monster name="Frostfur" x="-1" y="-7" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="-2" y="-5" z="6" spawntime="60" />
+		<monster name="Rotworm" x="5" y="-4" z="6" spawntime="60" />
+		<monster name="Rotworm" x="-1" y="-2" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="3" y="-2" z="6" spawntime="60" />
+		<monster name="Frostfur" x="-5" y="-1" z="6" spawntime="60" />
+		<monster name="Rotworm" x="-4" y="3" z="6" spawntime="60" />
+		<monster name="Rotworm" x="-3" y="3" z="6" spawntime="1821267712" />
+		<monster name="Frostfur" x="2" y="3" z="6" spawntime="60" />
+		<monster name="Cursed Gladiator" x="6" y="4" z="6" spawntime="60" />
+		<monster name="Dreadbeast" x="0" y="7" z="6" spawntime="60" />
+		<monster name="Cursed Gladiator" x="-4" y="8" z="6" spawntime="60" />
+		<monster name="Frostfur" x="-6" y="11" z="6" spawntime="60" />
+		<monster name="Rotworm" x="4" y="12" z="6" spawntime="60" />
+		<monster name="Rotworm" x="-4" y="14" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="-1" y="17" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="17" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="10" y="18" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1135" centery="759" centerz="6" radius="19">
+		<monster name="Furious Troll" x="-2" y="-15" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="8" y="-12" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="3" y="-10" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="-1" y="-7" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="9" y="-5" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="8" y="0" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="14" y="5" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="14" y="6" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="14" y="11" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="14" y="12" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="8" y="16" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="-4" y="17" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="17" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="-17" y="19" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-16" y="19" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="1112" centery="795" centerz="6" radius="19">
+		<monster name="Furious Troll" x="-1" y="-11" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="-1" y="-10" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-1" y="-9" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-1" y="4" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="0" y="4" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="5" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="6" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="7" z="6" spawntime="1821259264" />
+	</spawn>
+	<spawn centerx="1111" centery="834" centerz="6" radius="19">
+		<monster name="Furious Troll" x="0" y="-19" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="0" y="-18" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="-17" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="-5" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="0" y="-4" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="-3" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="-2" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-1" y="8" z="6" spawntime="60" />
+		<monster name="Furious Troll" x="0" y="8" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="9" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="10" z="6" spawntime="1821259264" />
+		<monster name="Furious Troll" x="1" y="10" z="6" spawntime="1821259264" />
+	</spawn>
+	<spawn centerx="1178" centery="874" centerz="7" radius="19">
+		<monster name="Furious Troll" x="6" y="11" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="11" y="11" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="14" y="11" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="6" y="12" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="6" y="14" z="7" spawntime="1821259264" />
+	</spawn>
+	<spawn centerx="1149" centery="891" centerz="7" radius="19">
+		<monster name="Furious Troll" x="4" y="-12" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="-11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="1" y="-11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="2" y="-11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="5" y="-11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="3" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="4" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="7" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="8" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="3" y="-9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="4" y="-9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="8" y="-9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-13" y="-7" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-4" y="-7" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-14" y="-6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-4" y="-6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="-6" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="2" y="-6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-16" y="-5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-15" y="-5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="2" y="-5" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-16" y="-4" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="4" y="-4" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-12" y="-3" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-17" y="-2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-12" y="-2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="4" y="-2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="5" y="-2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-17" y="-1" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-12" y="-1" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-12" y="0" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-12" y="1" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="1" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="9" y="1" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-11" y="2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="8" y="2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-17" y="3" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-10" y="3" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-9" y="3" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="7" y="3" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="12" y="3" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-9" y="4" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-8" y="4" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="6" y="4" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="7" y="4" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="13" y="4" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="5" y="5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="6" y="5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="7" y="5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="13" y="5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-16" y="6" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="5" y="6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="6" y="6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="13" y="6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="5" y="7" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="5" y="8" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="7" y="8" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="13" y="8" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-1" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="1" y="9" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="4" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="5" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="6" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="7" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="11" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-13" y="11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-11" y="11" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-6" y="11" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-8" y="12" z="7" spawntime="1821259264" />
+	</spawn>
+	<spawn centerx="1196" centery="898" centerz="7" radius="19">
+		<monster name="Furious Troll" x="2" y="-12" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="5" y="-12" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="6" y="-12" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="7" y="-7" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="8" y="-7" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="8" y="-6" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="0" y="-3" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-11" y="-2" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-2" y="-2" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-1" y="-2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="9" y="-2" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-11" y="-1" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="15" y="-1" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="14" y="0" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-6" y="2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="6" y="2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="6" y="3" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-11" y="4" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-6" y="4" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-11" y="5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="7" y="5" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="6" y="6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="7" y="6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="12" y="7" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-9" y="8" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="8" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="2" y="8" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="10" y="8" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="11" y="8" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="1" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="2" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="3" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="4" y="9" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="8" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="9" y="9" z="7" spawntime="1821259264" />
+	</spawn>
+	<spawn centerx="1237" centery="929" centerz="7" radius="19" />
+	<spawn centerx="1275" centery="932" centerz="7" radius="26" />
+	<spawn centerx="1159" centery="948" centerz="7" radius="26">
+		<monster name="Furious Troll" x="-16" y="-18" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-15" y="-18" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-14" y="-18" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-13" y="-18" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="-18" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="-18" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-8" y="-17" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="26" y="-15" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-22" y="-14" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="14" y="-14" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="25" y="-14" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="11" y="-13" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="12" y="-13" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-23" y="-12" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="7" y="-12" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="8" y="-12" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="10" y="-12" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="4" y="-11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="5" y="-11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="6" y="-11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="7" y="-11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="24" y="-11" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="3" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="4" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="24" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="25" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="26" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-16" y="-9" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="15" y="-8" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="14" y="-7" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="15" y="-7" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="13" y="-6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="14" y="-6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-20" y="-5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-16" y="-5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="13" y="-5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-16" y="-4" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="12" y="-4" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-19" y="-3" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-16" y="-3" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-19" y="-2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-18" y="-2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-16" y="-2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-18" y="-1" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-18" y="0" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-16" y="1" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-9" y="2" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="21" y="2" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="22" y="2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="23" y="2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="24" y="2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-9" y="3" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-9" y="4" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-17" y="5" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-9" y="5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-17" y="6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-16" y="9" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-5" y="9" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="10" y="9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-4" y="10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-13" y="11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-4" y="11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="9" y="11" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-15" y="12" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-4" y="13" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-6" y="14" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="14" y="14" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="15" y="14" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="16" y="14" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="17" y="14" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-6" y="15" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-5" y="15" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-11" y="16" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-10" y="17" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-26" y="24" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-26" y="25" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-12" y="26" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1201" centery="950" centerz="7" radius="26">
+		<monster name="Furious Troll" x="-8" y="-20" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-9" y="-19" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="-19" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-12" y="-18" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-11" y="-18" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-15" y="-17" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-14" y="-17" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-13" y="-17" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-1" y="-15" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-1" y="-14" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-15" y="-11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-14" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-13" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-12" y="-10" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-11" y="-9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-10" y="-9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-9" y="-9" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="-6" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-1" y="-4" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-8" y="-3" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-1" y="-3" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-1" y="-2" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-1" y="0" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="1" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-8" y="10" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="-10" y="11" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-11" y="12" z="7" spawntime="1821259264" />
+	</spawn>
+	<spawn centerx="1141" centery="971" centerz="7" radius="12">
+		<monster name="Furious Troll" x="6" y="5" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="6" y="6" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-5" y="7" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="8" z="7" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="8" z="7" spawntime="60" />
+		<monster name="Furious Troll" x="4" y="8" z="7" spawntime="1821259264" />
+	</spawn>
+	<spawn centerx="1152" centery="971" centerz="7" radius="12" />
+	<spawn centerx="1128" centery="978" centerz="7" radius="5" />
+	<spawn centerx="1118" centery="979" centerz="7" radius="5">
+		<monster name="Zombie" x="4" y="-4" z="7" spawntime="60" />
+		<monster name="Zombie" x="-1" y="-1" z="7" spawntime="60" />
+		<monster name="Zombie" x="-3" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1081" centery="1000" centerz="7" radius="5">
+		<monster name="Zombie" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Zombie" x="-3" y="-2" z="7" spawntime="60" />
+		<monster name="Zombie" x="2" y="0" z="7" spawntime="60" />
+		<monster name="Zombie" x="-2" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1072" centery="1001" centerz="7" radius="8">
+		<monster name="Zombie" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Zombie" x="1" y="1" z="7" spawntime="60" />
+		<monster name="Zombie" x="-6" y="2" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1061" centery="1003" centerz="7" radius="8">
+		<monster name="Zombie" x="1" y="-3" z="7" spawntime="60" />
+		<monster name="Zombie" x="-4" y="-2" z="7" spawntime="60" />
+		<monster name="Zombie" x="-6" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1050" centery="1007" centerz="7" radius="8">
+		<monster name="Zombie" x="0" y="-2" z="7" spawntime="60" />
+		<monster name="Zombie" x="-5" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1040" centery="1012" centerz="7" radius="8">
+		<monster name="Zombie" x="0" y="-6" z="7" spawntime="60" />
+		<monster name="Zombie" x="-4" y="-3" z="7" spawntime="60" />
+		<monster name="Zombie" x="-6" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1030" centery="1015" centerz="7" radius="5">
+		<monster name="Zombie" x="-1" y="0" z="7" spawntime="60" />
+		<monster name="Zombie" x="-3" y="4" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="1115" centery="864" centerz="8" radius="19">
+		<monster name="Zombie" x="-8" y="-4" z="8" spawntime="60" />
+		<monster name="Zombie" x="-2" y="-3" z="8" spawntime="60" />
+		<monster name="Zombie" x="1" y="-2" z="8" spawntime="60" />
+		<monster name="Zombie" x="-10" y="-1" z="8" spawntime="60" />
+		<monster name="Zombie" x="-10" y="1" z="8" spawntime="60" />
+		<monster name="Zombie" x="-4" y="1" z="8" spawntime="2115094528" />
+		<monster name="Zombie" x="-3" y="1" z="8" spawntime="60" />
+		<monster name="Zombie" x="2" y="2" z="8" spawntime="60" />
+		<monster name="Zombie" x="-5" y="4" z="8" spawntime="60" />
+		<monster name="Zombie" x="-5" y="5" z="8" spawntime="2115094528" />
+		<monster name="Zombie" x="0" y="6" z="8" spawntime="60" />
+		<monster name="Zombie" x="-5" y="8" z="8" spawntime="60" />
+		<monster name="Zombie" x="-1" y="8" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="-10" y="16" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="-6" y="17" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="2" y="18" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1111" centery="867" centerz="8" radius="9" />
+	<spawn centerx="1172" centery="873" centerz="8" radius="19">
+		<monster name="Young Sea Serpent" x="-2" y="3" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="4" y="4" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="3" y="5" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="4" y="5" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="2" y="6" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="3" y="6" z="8" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="6" y="6" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="-6" y="7" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="-5" y="11" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="-3" y="13" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="13" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="1" y="13" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="4" y="13" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="5" y="13" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-4" y="14" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="14" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="5" y="14" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="6" y="14" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="7" y="14" z="8" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="-12" y="17" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="-6" y="19" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="-1" y="19" z="8" spawntime="1821259264" />
+	</spawn>
+	<spawn centerx="1170" centery="876" centerz="8" radius="1" />
+	<spawn centerx="1178" centery="879" centerz="8" radius="1" />
+	<spawn centerx="1105" centery="880" centerz="8" radius="1" />
+	<spawn centerx="1166" centery="880" centerz="8" radius="1" />
+	<spawn centerx="1109" centery="881" centerz="8" radius="1" />
+	<spawn centerx="1117" centery="882" centerz="8" radius="1" />
+	<spawn centerx="1167" centery="884" centerz="8" radius="1" />
+	<spawn centerx="1173" centery="886" centerz="8" radius="1" />
+	<spawn centerx="1140" centery="887" centerz="8" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1148" centery="887" centerz="8" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1118" centery="889" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="-1" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="1" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="1" y="1" z="8" spawntime="1821259264" />
+	</spawn>
+	<spawn centerx="1136" centery="890" centerz="8" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1160" centery="890" centerz="8" radius="1" />
+	<spawn centerx="1112" centery="891" centerz="8" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="-1" y="1" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="1" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1119" centery="892" centerz="8" radius="1">
+		<monster name="Furious Troll" x="0" y="-1" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="0" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1131" centery="893" centerz="8" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1105" centery="894" centerz="8" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="0" y="1" z="8" spawntime="2115092992" />
+	</spawn>
+	<spawn centerx="1156" centery="894" centerz="8" radius="1">
+		<monster name="Zombie" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1120" centery="895" centerz="8" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1180" centery="895" centerz="8" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1117" centery="896" centerz="8" radius="19">
+		<monster name="Furious Troll" x="-7" y="-4" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-8" y="-3" z="8" spawntime="1821259264" />
+		<monster name="Zombie" x="16" y="1" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="-12" y="2" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="18" y="2" z="8" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="-14" y="3" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="-12" y="3" z="8" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="-2" y="3" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="17" y="3" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="18" y="3" z="8" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="-14" y="4" z="8" spawntime="2115092992" />
+		<monster name="Furious Troll" x="-12" y="4" z="8" spawntime="1821259264" />
+		<monster name="Zombie" x="8" y="4" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="17" y="4" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="-19" y="5" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="-12" y="5" z="8" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="12" y="5" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="-12" y="6" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-12" y="7" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="7" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="1" y="7" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="15" y="7" z="8" spawntime="60" />
+		<monster name="Zombie" x="17" y="7" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="-12" y="8" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-11" y="8" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="8" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="1" y="8" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="14" y="9" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1147" centery="896" centerz="8" radius="19">
+		<monster name="Furious Troll" x="3" y="-8" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="3" y="-7" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="3" y="-6" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="4" y="-6" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="-2" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="-1" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-3" y="0" z="8" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="-1" y="1" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="0" y="1" z="8" spawntime="2115092992" />
+		<monster name="Young Sea Serpent" x="6" y="1" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="13" y="1" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="13" y="2" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="14" y="2" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="15" y="2" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="16" y="2" z="8" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="-10" y="3" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="8" y="7" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="-2" y="8" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="1" y="10" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="9" y="10" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="6" y="11" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1133" centery="897" centerz="8" radius="1" />
+	<spawn centerx="1146" centery="897" centerz="8" radius="1" />
+	<spawn centerx="1153" centery="897" centerz="8" radius="1" />
+	<spawn centerx="1160" centery="897" centerz="8" radius="1" />
+	<spawn centerx="1169" centery="897" centerz="8" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="-1" z="8" spawntime="2115092992" />
+		<monster name="Young Sea Serpent" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1103" centery="899" centerz="8" radius="1" />
+	<spawn centerx="1115" centery="899" centerz="8" radius="1" />
+	<spawn centerx="1137" centery="899" centerz="8" radius="1" />
+	<spawn centerx="1098" centery="900" centerz="8" radius="19" />
+	<spawn centerx="1125" centery="900" centerz="8" radius="1" />
+	<spawn centerx="1171" centery="900" centerz="8" radius="19">
+		<monster name="Furious Troll" x="5" y="2" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="5" y="3" z="8" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="-3" y="4" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="6" y="4" z="8" spawntime="60" />
+		<monster name="Young Sea Serpent" x="8" y="6" z="8" spawntime="60" />
+		<monster name="Furious Troll" x="-2" y="7" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-1" y="7" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="0" y="7" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="1" y="7" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="2" y="7" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="3" y="7" z="8" spawntime="1821259264" />
+		<monster name="Furious Troll" x="4" y="7" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="1098" centery="901" centerz="8" radius="1" />
+	<spawn centerx="1129" centery="901" centerz="8" radius="1" />
+	<spawn centerx="1134" centery="903" centerz="8" radius="1" />
+	<spawn centerx="1155" centery="903" centerz="8" radius="1" />
+	<spawn centerx="1118" centery="904" centerz="8" radius="1" />
+	<spawn centerx="1145" centery="904" centerz="8" radius="1" />
+	<spawn centerx="1168" centery="904" centerz="8" radius="1" />
+	<spawn centerx="1177" centery="904" centerz="8" radius="1" />
+	<spawn centerx="1131" centery="905" centerz="8" radius="1" />
+	<spawn centerx="1148" centery="906" centerz="8" radius="1" />
+	<spawn centerx="1156" centery="906" centerz="8" radius="1" />
+	<spawn centerx="1179" centery="906" centerz="8" radius="1" />
+	<spawn centerx="1153" centery="907" centerz="8" radius="1" />
+	<spawn centerx="1124" centery="897" centerz="9" radius="1">
+		<monster name="Sea Serpent" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1128" centery="897" centerz="9" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1120" centery="898" centerz="9" radius="1">
+		<monster name="Young Sea Serpent" x="0" y="0" z="9" spawntime="60" />
+		<monster name="Furious Troll" x="0" y="1" z="9" spawntime="1821259264" />
+		<monster name="Furious Troll" x="1" y="1" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1109" centery="901" centerz="9" radius="1">
+		<monster name="Snake Thing" x="0" y="0" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1111" centery="901" centerz="9" radius="19">
+		<monster name="Furious Troll" x="13" y="-2" z="9" spawntime="60" />
+		<monster name="Furious Troll" x="8" y="-1" z="9" spawntime="1821259264" />
+		<monster name="Furious Troll" x="9" y="-1" z="9" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-14" y="1" z="9" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-13" y="1" z="9" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-12" y="1" z="9" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="2" y="1" z="9" spawntime="60" />
+		<monster name="Tortoise" x="5" y="1" z="9" spawntime="60" />
+		<monster name="Furious Troll" x="-13" y="2" z="9" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-12" y="2" z="9" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-11" y="2" z="9" spawntime="60" />
+		<monster name="Furious Troll" x="-6" y="2" z="9" spawntime="1821259264" />
+		<monster name="Tortoise" x="-5" y="2" z="9" spawntime="60" />
+		<monster name="Furious Troll" x="-3" y="2" z="9" spawntime="1821259264" />
+		<monster name="Furious Troll" x="-2" y="2" z="9" spawntime="60" />
+		<monster name="Young Sea Serpent" x="0" y="2" z="9" spawntime="60" />
+		<monster name="Furious Troll" x="6" y="2" z="9" spawntime="60" />
+		<monster name="Furious Troll" x="-5" y="3" z="9" spawntime="1821259264" />
+		<monster name="Young Sea Serpent" x="8" y="4" z="9" spawntime="60" />
+		<monster name="Young Sea Serpent" x="-2" y="6" z="9" spawntime="60" />
+		<monster name="Tortoise" x="3" y="6" z="9" spawntime="60" />
+		<monster name="Snake Thing" x="6" y="6" z="9" spawntime="60" />
+	</spawn>
+	<spawn centerx="1113" centery="902" centerz="9" radius="1" />
+	<spawn centerx="1116" centery="902" centerz="9" radius="1" />
+	<spawn centerx="1106" centery="903" centerz="9" radius="1" />
+	<spawn centerx="1111" centery="903" centerz="9" radius="1" />
+	<spawn centerx="1119" centery="905" centerz="9" radius="1" />
+	<spawn centerx="1109" centery="907" centerz="9" radius="1" />
+	<spawn centerx="1114" centery="907" centerz="9" radius="1" />
+	<spawn centerx="1117" centery="907" centerz="9" radius="1" />
+</spawns>
